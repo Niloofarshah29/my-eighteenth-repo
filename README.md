@@ -1,7 +1,7 @@
 # my-eighteenth-repo
 repo
 #include <iostream>
-usin namespace std;
+using namespace std;
 
 void bubbleSort(int arr[], int n) {
     for(int i=0; i<n-1; i++)
